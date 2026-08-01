@@ -1,10 +1,10 @@
-ذ# Hi there, I'm Ziad 👋
+# Hi there, I'm Ziad 👋
 
 ### 👨‍💻 About Me
 - 🎓 **Cybersecurity Student** at Faculty of Computers and Information, Damanhour National University (DNU).
-- 🌐 Currently learning **React.js** to build modern, dynamic web applications.
-- 🛠️ Solid foundation in web basics: **HTML5**, **CSS3**, and **JavaScript**.
-- 🔐 Passionate about secure web application architectures and defensive cybersecurity.
+- 🌐 Currently learning **React.js** to build modern, dynamic web interfaces.
+- 🛠️ Solid foundation in web fundamentals: **HTML5**, **CSS3**, and **JavaScript**.
+- 🔐 Passionate about secure application architectures and defensive cybersecurity.
 
 ---
 
@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Languages & Backend:**
+**Programming & Databases:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
