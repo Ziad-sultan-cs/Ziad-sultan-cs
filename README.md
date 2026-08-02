@@ -30,6 +30,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-sultan-cs&show_icons=true&theme=dark" alt="Ziad's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-sultan-cs&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Sultan&show_icons=true&theme=dark" alt="Ziad's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Sultan&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
